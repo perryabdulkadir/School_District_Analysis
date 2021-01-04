@@ -20,4 +20,4 @@ After removing the suspect data from Thomas High School's 9th grade class, the d
 ![school_summary_original.PNG](Resources/school_summary_original.PNG) 
 
 **New Analysis**
-![school_summary_new.PNG](school_summary_new.PNG) 
+![school_summary_new.PNG](Resources/school_summary_new.PNG) 
