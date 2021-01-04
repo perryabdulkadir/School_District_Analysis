@@ -73,4 +73,4 @@ Thomas High School's performance relative to other schools was relatively unchan
 ![scores_by_type_original.PNG](Resources/scores_by_type_original.PNG)  
 
 **New Scores by School Type**
-![scores_by_type_new.PNG](Resources/scores_by_type_new.PNG)  
+![scores_by_type.PNG](Resources/scores_by_type.PNG)  
