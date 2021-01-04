@@ -26,10 +26,51 @@ After removing the 9th grade scores, the average math score at Thomas High Schoo
 
 ### Thomas High School's Ranking Relative to Other Schools
 
-Top 5 Schools by Overall Scores in Original Analysis
+**Top 5 Schools by Overall Scores in Original Analysis**
 ![top_5_original.PNG](Resources/top_5_original.PNG) 
 
-Top 5 Schools by Overall Scores in New Analysis
+**Top 5 Schools by Overall Scores in New Analysis**
 ![top_5_new.PNG](Resources/top_5_new.PNG) 
 
 Thomas High School's performance relative to other schools was relatively unchanged; it had the second highest overall passing rate in both the original analysis and the new analysis.
+
+### Scores by Grade
+
+#### Math Scores
+
+**Original Math Scores**
+![math_scores_by_grade_original.PNG](Resources/math_scores_by_grade_original.PNG) 
+
+**New Math Scores**
+![math_scores_by_grade_new.PNG](Resources/math_scores_by_grade_new.PNG) 
+
+#### Reading Scores
+
+**Original Reading Scores**
+![reading_scores_by_grade_original.PNG](Resources/reading_scores_by_grade_original.PNG)
+
+**New Reading Scores**
+![reading_scores_by_grade_new.PNG](Resources/reading_scores_by_grade_new.PNG)  
+
+### Scores by School Spending
+**Original Scores by Spending**
+![scores_by_spending_original.PNG](Resources/scores_by_spending_original.PNG)  
+
+**New Scores by Spending**
+![scores_by_spending_new.PNG](Resources/scores_by_spending_new.PNG)  
+
+### Scores by School Size
+
+**Original Scores by School Size**
+![scores_by_size_original.PNG](Resources/scores_by_size_original.PNG)  
+
+**New Scores by School Size**
+![scores_by_size_new.PNG](Resources/scores_by_size_new.PNG) 
+
+### Scores by School Type
+
+**Original Scores by School Type**
+![scores_by_type_original.PNG](Resources/scores_by_type_original.PNG)  
+
+**New Scores by School Type**
+![scores_by_type_new.PNG](Resources/scores_by_type_new.PNG)  
