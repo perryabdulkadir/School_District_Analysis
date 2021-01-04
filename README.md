@@ -8,18 +8,22 @@ The school district has tasked me with analyzing standardized test scores in rea
 
 ### District Summary
 **Original Analysis**
+
 ![district_analysis_original.PNG](Resources/district_analysis_original.PNG) 
 
 **New Analysis**
+
 ![district_analysis_new.PNG](Resources/district_analysis_new.PNG) 
 
 After removing the suspect data from Thomas High School's 9th grade class, the district's overall statistics changed slightly. Average math score dropped from 79.0 to 78.9, the percentage of students passing math dropped from 75.0% to 74.8%. The average reading score remains relatively unchanged at 81.9, the percentage passing reading declined slightly from 85.8% to 85.7%, and the overall percetage of students in the district passing dropped from 65.2% to 64.9%.
 
 ### School Summary
 **Original Analysis**
+
 ![school_summary_original.PNG](Resources/school_summary_original.PNG) 
 
 **New Analysis**
+
 ![school_summary_new.PNG](Resources/school_summary_new.PNG) 
 
 After removing the 9th grade scores, the average math score at Thomas High School dropped from 83.42 to 83.35 and the percent passing math dropped from 93.9% to 93.2%. The average reading score actually rose from 83.85 to 83.90 and the percent passing reading fell from 97.3% to 97.0%. The overall percentage passing dropped from 90.9% to 90.6%.
@@ -27,9 +31,11 @@ After removing the 9th grade scores, the average math score at Thomas High Schoo
 ### Thomas High School's Ranking Relative to Other Schools
 
 **Top 5 Schools by Overall Scores in Original Analysis**
+
 ![top_5_original.PNG](Resources/top_5_original.PNG) 
 
 **Top 5 Schools by Overall Scores in New Analysis**
+
 ![top_5_new.PNG](Resources/top_5_new.PNG) 
 
 Thomas High School's performance relative to other schools was relatively unchanged; it had the second highest overall passing rate in both the original analysis and the new analysis.
@@ -39,38 +45,48 @@ Thomas High School's performance relative to other schools was relatively unchan
 #### Math Scores
 
 **Original Math Scores**
+
 ![math_scores_by_grade_original.PNG](Resources/math_scores_by_grade_original.PNG) 
 
 **New Math Scores**
+
 ![math_scores_by_grade_new.PNG](Resources/math_scores_by_grade_new.PNG) 
 
 #### Reading Scores
 
 **Original Reading Scores**
+
 ![reading_scores_by_grade_original.PNG](Resources/reading_scores_by_grade_original.PNG)
 
 **New Reading Scores**
+
 ![reading_scores_by_grade_new.PNG](Resources/reading_scores_by_grade_new.PNG)  
 
 ### Scores by School Spending
 **Original Scores by Spending**
+
 ![scores_by_spending_original.PNG](Resources/scores_by_spending_original.PNG)  
 
 **New Scores by Spending**
+
 ![scores_by_spending_new.PNG](Resources/scores_by_spending_new.PNG)  
 
 ### Scores by School Size
 
 **Original Scores by School Size**
+
 ![scores_by_size_original.PNG](Resources/scores_by_size_original.PNG)  
 
 **New Scores by School Size**
+
 ![scores_by_size_new.PNG](Resources/scores_by_size_new.PNG) 
 
 ### Scores by School Type
 
 **Original Scores by School Type**
+
 ![scores_by_type_original.PNG](Resources/scores_by_type_original.PNG)  
 
 **New Scores by School Type**
+
 ![scores_by_type.PNG](Resources/scores_by_type.PNG)  
