@@ -31,3 +31,5 @@ Top 5 Schools by Overall Scores in Original Analysis
 
 Top 5 Schools by Overall Scores in New Analysis
 ![top_5_new.PNG](Resources/top_5_new.PNG) 
+
+Thomas High School's performance relative to other schools was relatively unchanged; it had the second highest overall passing rate in both the original analysis and the new analysis.
