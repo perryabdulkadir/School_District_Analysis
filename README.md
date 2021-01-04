@@ -62,6 +62,8 @@ Thomas High School's performance relative to other schools was relatively unchan
 
 ![reading_scores_by_grade_new.PNG](Resources/reading_scores_by_grade_new.PNG)  
 
+The only difference in math and reading scores by grade is that Thomas High School's 9th Grade data displays as "NaN." (The other numbers differ only due to the number of digits displayed).
+
 ### Scores by School Spending
 **Original Scores by Spending**
 
@@ -70,6 +72,8 @@ Thomas High School's performance relative to other schools was relatively unchan
 **New Scores by Spending**
 
 ![scores_by_spending_new.PNG](Resources/scores_by_spending_new.PNG)  
+
+Because Thomas High School is in the per pupil spending category of $630-$644, this is the only spending bin to be affected by the change in the dataset. Average math score decreased from 78.52 to 78.50, average reading score increased from 81.62 to 81.63, the percent passing math dropped from 73.48% to 73.46%, the percent passing reading dropped from 84.39% to 84.32%, and the overall percent passing in the category of $630-644 dropped from 62.86% to 62.78%.
 
 ### Scores by School Size
 
@@ -81,6 +85,8 @@ Thomas High School's performance relative to other schools was relatively unchan
 
 ![scores_by_size_new.PNG](Resources/scores_by_size_new.PNG) 
 
+Because Thomas High School is a medium high school, this is the only category of schools that could be affected. Average math score was not significantly affected, nor was average reading score. The percentage of students passing reading, math, and overall were not significantly affected.
+
 ### Scores by School Type
 
 **Original Scores by School Type**
@@ -90,3 +96,5 @@ Thomas High School's performance relative to other schools was relatively unchan
 **New Scores by School Type**
 
 ![scores_by_type.PNG](Resources/scores_by_type.PNG)  
+
+Thomas High School is a charter, so this is the category that could potentially be affected by the change in data. However, no significant changes in the data can be observed. 
