@@ -98,3 +98,10 @@ Because Thomas High School is a medium high school, this is the only category of
 ![scores_by_type.PNG](Resources/scores_by_type.PNG)  
 
 Thomas High School is a charter, so this is the category that could potentially be affected by the change in data. However, no significant changes in the data can be observed. 
+
+
+## Summary
+There are four points in the data to highlight. First, changing the 9th grade scores at Thomas High School actually cause average reading scores at the school to rise. This means that even the suspected cheated results were not very high; this is worthy of further research. If teachers/students were faking "realistic" scores, this implies a level of sophistication in the cheating method. Second, the ranking of Thomas High School was unaffected by the change in the data. This fits in with the first point I made: the cheated scores were not radically out of line with the scores of other grades at the same high school. Third, the scores by school spending were relatively unaffected. After the change to the data, the spending bin of $630-$644 had its percentage of pupils passing change by no more than a tenth of a percent. Fourth, average scores for medium-sized schools and charter schools (Thomas is a medium-sized school and a charter school) were basically unchanged in the aggregate. 
+
+
+
