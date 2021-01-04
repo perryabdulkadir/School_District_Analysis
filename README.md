@@ -7,7 +7,10 @@ The school district has tasked me with analyzing standardized test scores in rea
 ## Results
 
 ### District Summary
-
+**Original Analysis**
 ![district_analysis_original.PNG](Resources/district_analysis_original.PNG) 
 
+**New Analysis**
 ![district_analysis_new.PNG](Resources/district_analysis_new.PNG) 
+
+After removing the suspect data from Thomas High School's 9th grade class, the district's overall statistics changed slightly. Average math score dropped from 79.0 to 78.9, the percentage of students passing math dropped from 75.0% to 74.8%. The average reading score remains relatively unchanged at 81.9, the percentage passing reading declined slightly from 85.8% to 85.7%, and the overall percetage of students in the district passing dropped from 65.2% to 64.9%.
