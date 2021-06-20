@@ -2,7 +2,7 @@
 Columbia Data Science Module 4
 ## Overview of Analysis
 
-The school district has tasked me with analyzing standardized test scores in reading and math for the district's high schools. Previously, I had completed this analysis in preparation for a school board meeting to determine next year's funding. For this initial analysis, I calculated the percentage of students passing math, reading, and both tests broken down by high school and grade. Additionaly, I analyzed standardized testing performance based on school size and funding per pupil. After completing this initial analysis, I was notified that academic dishonesty was suspected for 9th grade reading and math scores at Thomas High School. The Board asked me to replace the the suspected compromised test results with NaNs and redo the analysis.
+The school district has tasked me with analyzing standardized test scores in reading and math for the district's high schools. Previously, I had completed this analysis in preparation for a school board meeting to determine next year's funding. For this initial analysis, I calculated the percentage of students passing math, reading, and both tests broken down by high school and grade. Additionally, I analyzed standardized testing performance based on school size and funding per pupil. After completing this initial analysis, I was notified that academic dishonesty was suspected of 9th grade reading and math scores at Thomas High School. The Board asked me to replace the suspected compromised test results with NaNs and redo the analysis.
 
 ## Results
 
@@ -15,7 +15,7 @@ The school district has tasked me with analyzing standardized test scores in rea
 
 ![district_analysis_new.PNG](Resources/district_analysis_new.PNG) 
 
-After removing the suspect data from Thomas High School's 9th grade class, the district's overall statistics changed slightly. Average math score dropped from 79.0 to 78.9, the percentage of students passing math dropped from 75.0% to 74.8%. The average reading score remains relatively unchanged at 81.9, the percentage passing reading declined slightly from 85.8% to 85.7%, and the overall percetage of students in the district passing dropped from 65.2% to 64.9%.
+After removing the suspect data from Thomas High School's 9th grade class, the district's overall statistics changed slightly. Average math score dropped from 79.0 to 78.9, the percentage of students passing math dropped from 75.0% to 74.8%. The average reading score remains relatively unchanged at 81.9, the percentage passing reading declined slightly from 85.8% to 85.7%, and the overall percentage of students in the district passing dropped from 65.2% to 64.9%.
 
 ### School Summary
 * **Original Analysis**
@@ -104,4 +104,10 @@ Thomas High School is a charter, so this is the category that could potentially 
 There are four points in the data to highlight. First, changing the 9th grade scores at Thomas High School actually cause average reading scores at the school to rise. This means that even the suspected cheated results were not very high; this is worthy of further research. If teachers/students were faking "realistic" scores, this implies a level of sophistication in the cheating method. Second, the ranking of Thomas High School was unaffected by the change in the data. This fits in with the first point I made: the cheated scores were not radically out of line with the scores of other grades at the same high school. Third, the scores by school spending were relatively unaffected. After the change to the data, the spending bin of $630-$644 had its percentage of pupils passing change by no more than a tenth of a percent. Fourth, average scores for medium-sized schools and charter schools (Thomas is a medium-sized school and a charter school) were basically unchanged in the aggregate. 
 
 
+-----
 
+### **Contact:**
+
+**Email:** perry.abdulkadir@alumni.harvard.edu
+
+**Linkedin:** https://www.linkedin.com/in/perry-abdulkadir-6a255199/
